@@ -44,7 +44,5 @@
 	</array>
 	<key>UILaunchScreen</key>
 	<dict/>
-	<key>NSLocationWhenInUseUsageDescription</key>
-    <string>We need your location to show nearby restaurants.</string>
 </dict>
 </plist>
