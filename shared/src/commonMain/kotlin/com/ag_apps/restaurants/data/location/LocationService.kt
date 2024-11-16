@@ -1,4 +1,4 @@
-package com.ag_apps.restaurants.domain
+package com.ag_apps.restaurants.data.location
 
 import com.ag_apps.restaurants.domain.models.Location
 

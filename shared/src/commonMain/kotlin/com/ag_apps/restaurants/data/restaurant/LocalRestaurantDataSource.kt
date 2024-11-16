@@ -1,6 +1,6 @@
-package com.ag_apps.restaurants.data
+package com.ag_apps.restaurants.data.restaurant
 
-import com.ag_apps.restaurants.domain.LocationService
+import com.ag_apps.restaurants.data.location.LocationService
 import com.ag_apps.restaurants.domain.models.Restaurant
 import com.ag_apps.restaurants.domain.RestaurantDataSource
 import com.ag_apps.restaurants.domain.usecase.isRestaurantWithin3km

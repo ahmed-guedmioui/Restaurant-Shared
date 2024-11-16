@@ -1,4 +1,4 @@
-package com.ag_apps.restaurants.data
+package com.ag_apps.restaurants.data.restaurant
 
 import com.ag_apps.restaurants.domain.models.Restaurant
 

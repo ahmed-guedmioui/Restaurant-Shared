@@ -1,4 +1,4 @@
-package com.ag_apps.restaurants.domain
+package com.ag_apps.restaurants.data.location
 
 import android.annotation.SuppressLint
 import android.content.Context
